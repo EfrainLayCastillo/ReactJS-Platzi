@@ -4,6 +4,8 @@
   "description": "I would like to learn more about Javascript, completing a new web developer path, to improve Front-end skills to be a better devolper. This course is given by: Oscar Barajas - Frontend at Platzi",
   "main": "src/index.js",
   "scripts": {
+    "start": "webpack serve --open",
+    "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
