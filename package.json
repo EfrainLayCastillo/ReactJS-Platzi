@@ -1,0 +1,23 @@
+{
+  "name": "reactjs-platzi",
+  "version": "1.0.0",
+  "description": "I would like to learn more about Javascript, completing a new web developer path, to improve Front-end skills to be a better devolper. This course is given by: Oscar Barajas - Frontend at Platzi",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EfrainLayCastillo/ReactJS-Platzi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EfrainLayCastillo/ReactJS-Platzi/issues"
+  },
+  "homepage": "https://github.com/EfrainLayCastillo/ReactJS-Platzi#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
