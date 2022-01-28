@@ -13,7 +13,7 @@ import Checkout from '../pages/Checkout';
 import Orders from '../pages/Orders';
 import PasswordRecovery from '../pages/PasswordRecovery';
 
-import '../styles/global.scss';
+import '@styles/global.scss';
 
 const App =() => {
     return(
