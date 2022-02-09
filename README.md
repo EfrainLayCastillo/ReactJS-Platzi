@@ -18,16 +18,16 @@ React is a library that allow us to create user interface focused the view using
 - Hooks: Key Methods to handle states and events into the app.
 
 ### JSX
-Es la extensión de archivos que se usa en react donde podemos hacer html dentro de js facilitando el uso sacando lo mejor de html css y js.
+It is the file extension used in react where we can make html inside js making it easy to use by getting the best out of html css and js.
 
 ### Virual DOM
-Es una copia del DOM real y lo que hace es compararlo, asi cuando existe algun cambio no se tiene que renderizar toda la pantalla si no solo lo que se cambio mejorando el desempeño de nuestra app, como lo comente antes esto es por que se compara el Virtual DOM con el DOM Real encontrando los cambios
+It is a copy of the real DOM and what it does is compare it, so when there is a change, the entire screen does not have to be rendered, but only what was changed, improving the performance of our app, as I mentioned before, this is why it is compared the Virtual DOM with the Real DOM finding the changes.
 
-### Ciclo de vida
-Este concepto es ampliamente conocido en la programación, en este curso vamos a conocer cual es el ciclo de vida de los elementos que vamos a crear en react desde que nace, se combina hasta que muere
+### Lifecycle
+This concept is widely known in programming, in this course we are going to know what is the life cycle of the elements that we are going to create in react since it is born, it is combined until it dies.
 
-### Estado
-Esto es fundamental, ya que podemos ver los estados y ver como es el flujo de la información entre componentes a travez de un imputs, botones, interacciones entre otros elementos
+### State
+This is fundamental, since we can see the states and see how the information flows between components through inputs, buttons, interactions between other elements.
 
 ## Resources
 - Figma: https://www.figma.com/proto/bcEVujIzJj5PNIWwF9pP2w/Platzi_YardSale?node-id=5%3A2511&amp%3Bscaling=scale-down&amp%3Bpage-id=0%3A998&amp%3Bstarting-point-node-id=5%3A2808
